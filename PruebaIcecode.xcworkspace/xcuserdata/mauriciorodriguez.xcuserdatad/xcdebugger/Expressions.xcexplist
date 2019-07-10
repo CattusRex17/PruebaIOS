@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AmiiboCell.setCell(name:serie:):AmiiboCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "optionName?.text">
+            </PersistentString>
+            <PersistentString
+               value = "optionName">
+            </PersistentString>
+            <PersistentString
+               value = "optionSerie?.text">
+            </PersistentString>
+            <PersistentString
+               value = "optionSerie">
+            </PersistentString>
+            <PersistentString
+               value = "optionSerie?.text = serie">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginCV.viewDidLoad():LoginCV.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userRespuesta">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
